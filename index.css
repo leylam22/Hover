@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+h1{
+    color: orange;
+    padding: 10px;
+}
+.first, .second, .third{
+    background-color: rgb(39, 36, 36);
+    border-radius: 15px;
+    padding-bottom: 25px;
+    padding-top: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 25px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+div:hover{
+    background-color: rgb(255, 166, 0);
+    color: white;
+}
+#dt{
+    color: rgb(167, 167, 163);
+    font-size: 11px;
+}
